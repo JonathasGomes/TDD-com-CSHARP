@@ -1,0 +1,12 @@
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\bin\Debug\net6.0\Demo_Asserts.deps.json
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\bin\Debug\net6.0\Demo_Asserts.dll
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\bin\Debug\net6.0\Demo_Asserts.pdb
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.csproj.AssemblyReference.cache
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.AssemblyInfoInputs.cache
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.AssemblyInfo.cs
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.csproj.CoreCompileInputs.cache
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.dll
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\refint\Demo_Asserts.dll
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\Demo_Asserts.pdb
+C:\Users\Jon - 0322\source\repos\Demo_Asserts\Demo_Asserts\obj\Debug\net6.0\ref\Demo_Asserts.dll
